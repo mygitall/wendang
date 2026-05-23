@@ -74,6 +74,12 @@ LOGO大小适中，不抢占过多视觉焦点。
 最终效果
 一张干净、权威、可信的公告海报，适合金融科技、政务或B端产品相关的正式通知场景。
 ```
+![Uploading _Users_zhangweiwei_Desktop_AI%E5%BC%80%E5%8F%91_%E7%BD%91%E7%AB%99_web01_announcement_index.html.png…]()
+
+
+
+
+
 ```
 <!DOCTYPE html>
 <html lang="zh-CN">
