@@ -76,7 +76,7 @@ LOGO大小适中，不抢占过多视觉焦点。
 ```
 
 
-<img width="10000" height="990" alt="sss" src="https://github.com/user-attachments/assets/cc16435b-92e1-47d9-8423-c36fea1bf463" />
+<img width="1000" height="990" alt="sss" src="https://github.com/user-attachments/assets/cc16435b-92e1-47d9-8423-c36fea1bf463" />
 
 
 
