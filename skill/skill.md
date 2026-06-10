@@ -12,7 +12,8 @@ https://github.com/op7418/guizang-ppt-skill
 
 ### web-design-guidelines
 
-2、自动审查你网页/前端代码是否符合 Web UI/UX 最佳实践。可以终端执行安装
+2、自动审查你网页/前端代码是否符合 Web UI/UX 最佳实践。可以终端执行安装、
+
 https://github.com/vercel-labs/agent-skills
 ```
 cd /Applications/MAMP/htdocs/templates/v1 && \
