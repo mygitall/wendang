@@ -16,7 +16,7 @@ https://github.com/op7418/guizang-ppt-skill
 
 https://github.com/vercel-labs/agent-skills
 ```
-cd /Applications/MAMP/htdocs/templates/v1 && \
+cd /你的项目路径 && \
 pwd && \
 npx skills add vercel-labs/agent-skills --skill web-design-guidelines && \
 find . -maxdepth 5 -type f -name "SKILL.md"
