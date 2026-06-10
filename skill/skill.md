@@ -9,3 +9,12 @@
 ```
 https://github.com/op7418/guizang-ppt-skill
 ```
+
+### web-design-guidelines
+2、自动审查你网页/前端代码是否符合 Web UI/UX 最佳实践。
+```
+cd /Applications/MAMP/htdocs/templates/v1 && \
+pwd && \
+npx skills add vercel-labs/agent-skills --skill web-design-guidelines && \
+find . -maxdepth 5 -type f -name "SKILL.md"
+```
